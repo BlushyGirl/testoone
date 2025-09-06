@@ -1,7 +1,7 @@
 print("Hello!!!!!!")
-text = "I am cringe but i am free"
+text = "I am cringe but i am free и я биба"
 print(text)
 
 
-print("aasas")
+
 text1="Genshin Impact"
